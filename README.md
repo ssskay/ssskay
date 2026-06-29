@@ -6,7 +6,7 @@ I build my own tools. I'd rather spend a weekend building the thing
 than an afternoon hunting for one that almost fits, usually with a coding
 agent riding shotgun on the frontend so I can focus on the data powering it. SRE by day, this by night.
 
-🔗[LinkedIn](https://www.linkedin.com/in/ssskay/) · [Substack](https://newsletter.datagremlingobrr.com) · [sarakay.me](https://sarakay.me)
+🔗 [LinkedIn](https://www.linkedin.com/in/ssskay/) · [Substack](https://newsletter.datagremlingobrr.com) · [sarakay.me](https://sarakay.me)
 
 ---
 
