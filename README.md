@@ -30,6 +30,14 @@ Each one ships with a Claude Code skill, and each one has a line the AI can't cr
 
 🌲 **[Free Stuff @ Dartmouth](https://github.com/ssskay/freestuff-dartmouth-v2)** — the Dartmouth reference build. *"Your school already pays for this. You just didn't know."*
 
+### 🖥️→🍎 Desktop pet rescue
+
+New hobby unlocked: adopting cute Windows-only desktop apps and giving them a second life on macOS. To be clear — these aren't my creations. The original developers did the hard, lovely work; I do the porting, the Mac-specific bug hunts, and send fixes back upstream where I can.
+
+🐰 **[Yaha-Pet for macOS](https://github.com/ssskay/Yaha-Pet)** — port of [gitChara-dot's Yaha-Pet](https://github.com/gitChara-dot/Yaha-Pet) (MIT): Usagi, Hachiware & Chiikawa roam your desktop, squeak when grabbed, and now live in your Dock. Fixed a crash and an animation bug along the way — [offered upstream](https://github.com/gitChara-dot/Yaha-Pet/pull/2). *Ura! Yaha!*
+
+🍙 **[Desktop Chiikawa for macOS](https://github.com/ssskay/desktop-chiikawa-macos)** — port of [CookieElmo's Desktop Chiikawa](https://cookieelmo.itch.io/desktop-chiikawa), the wellness-reminder pet from itch.io. Rebuilt on the native Godot runtime with some new tricks: wandering, petting, snacks, kaomoji speech, and it remembers where you left it. *Drink water. Chiikawa is watching.*
+
 More to come soon! :D
 
 ---
