@@ -12,11 +12,11 @@ I build my own tools. I'd rather spend a weekend building the thing than an afte
 
 ### 🗓️ Open-data calendars
 
-I fork a scraping engine that already works and point it at information that didn't have one yet.
+I forked a scraping engine that already works and pointed it at information that didn't have one yet.
 
 #### 📚 [MangaRelease](https://mangarelease.github.io)
 
-An automated, open-data release calendar for licensed English manga, manhwa, manhua & webtoons. Scrapes 15+ publishers daily via GitHub Actions, and the full dataset ships as CSV so anyone's agents can use it. An extensive fork of [LNRelease's light-novel calendar](https://github.com/LNRelease/lnrelease.github.io) (MIT) — the original nails release dates for English light novels; I adapted the engine for comics and the very different set of publishers that put them out. 
+An automated, open-data release calendar for licensed English manga, manhwa, manhua & webtoons. Scrapes 15+ publishers daily via GitHub Actions, and the full dataset ships as CSV so anyone's agents can use it. An extensive fork of [LNRelease's light-novel calendar](https://github.com/LNRelease/lnrelease.github.io) (MIT), which collects English light novels releases.
 
 Repo: [github.com/mangarelease/mangarelease.github.io](https://github.com/mangarelease/mangarelease.github.io).
 
@@ -28,7 +28,7 @@ Claude Code skills adapted from real problems I've encountered, nicely packaged 
 
 #### 🏛️ [internet-historian](https://github.com/ssskay/internet-historian)
 
-A patient Wayback Machine archiver for macOS. It treats a busy Internet Archive as weather rather than failure, and retries until your pages are actually preserved. You can tell it "archive my Chiikawa stuff" and walk away. `pipx install internet-historian` for the non agent version.
+A patient Wayback Machine archiver for macOS. It treats a busy Internet Archive as weather rather than failure, and retries until your pages are actually preserved. You can tell it to archive websites related the things you love the most and walk away. `pipx install internet-historian` for the non agent version.
 
 #### 📖 [wiki-gap-finder](https://github.com/ssskay/wiki-gap-finder)
 
@@ -36,7 +36,7 @@ Finds people from underrepresented groups who are missing from English Wikipedia
 
 #### 📦 [inbox-catalog](https://github.com/ssskay/inbox-catalog)
 
-A local-first, read-only engine that turns your order emails into structured purchase data your agents can use: sort purchases by project, track spending in categories that match how you actually think, stop re-buying things you already own. Installs as a Claude Code plugin with a zero-setup demo.
+A local-first, read-only engine that turns your order emails into structured purchase data your agents can use: sort purchases by project, track spending in categories that match how you actually think, stop re-buying things you already own.
 
 ---
 
