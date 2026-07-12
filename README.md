@@ -8,6 +8,12 @@ I build my own tools. I'd rather spend a weekend building the thing than an afte
 
 ---
 
+## 🗓️ MangaRelease
+
+Creator & maintainer of [MangaRelease](https://mangarelease.github.io) — an automated, open-data release calendar for licensed English manga, manhwa, manhua & webtoons. It scrapes 15+ publishers daily via GitHub Actions and publishes the full dataset as CSV. Repo: [github.com/mangarelease/mangarelease.github.io](https://github.com/mangarelease/mangarelease.github.io).
+
+---
+
 ## ⭐ Stuff I've built
 
 ### 🤖 Agentic tools
