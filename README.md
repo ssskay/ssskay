@@ -12,11 +12,11 @@ I build my own tools. I'd rather spend a weekend building the thing than an afte
 
 ### 🤖 Agentic tools
 
-Each of these ships with a Claude Code skill, and each has a hard line the AI isn't allowed to cross — a human writes the Wikipedia article, the inbox stays read-only, nothing gets deleted.
+Claude Code skills adapted from real problems I've encountered, nicely packaged for anyone to use.
 
 #### 🏛️ [internet-historian](https://github.com/ssskay/internet-historian)
 
-A patient Wayback Machine archiver for macOS. It treats a busy Internet Archive as weather rather than failure, and retries until your pages are actually preserved. You can tell it "archive my Chiikawa stuff" and walk away. `pipx install internet-historian`
+A patient Wayback Machine archiver for macOS. It treats a busy Internet Archive as weather rather than failure, and retries until your pages are actually preserved. You can tell it "archive my Chiikawa stuff" and walk away. `pipx install internet-historian` for the non agent version.
 
 #### 📖 [wiki-gap-finder](https://github.com/ssskay/wiki-gap-finder)
 
@@ -32,17 +32,17 @@ A local-first, read-only engine that turns your order emails into structured pur
 
 #### 🎁 [freestuff-template](https://github.com/ssskay/freestuff-template)
 
-A school-agnostic engine for an agent-maintained catalog of free student and alum perks — searchable list, campus map, weekly link checker. Astro + Supabase, deploys to Vercel. Fork it for your school.
+A school-agnostic engine for an agent-maintained catalog of free student and alum perks. Viewable as a searchable list and campus map with weekly link checker. Fork it for your school!
 
 #### 🌲 [Free Stuff @ Dartmouth](https://github.com/ssskay/freestuff-dartmouth-v2)
 
-The Dartmouth reference build. Most of what's in it, students never find out their school already pays for.
+The Dartmouth reference build. I started making this site in freshman year and thanks to agents, now future freshmen can maximize all the free resources!
 
 ---
 
 ### 🖥️→🍎 Desktop pet rescue
 
-I adopt cute Windows-only desktop apps and give them a second life on macOS. The original developers did the hard, lovely work — I do the porting, the Mac-specific bug hunts, and send fixes back upstream where I can.
+I adopt cute Windows-only desktop apps and give them a second life on macOS. The original developers did the hard, lovely work — I do the porting, the Mac-specific bug hunts, and extra bonus features!
 
 #### 🐰 [Yaha-Pet for macOS](https://github.com/ssskay/Yaha-Pet)
 
