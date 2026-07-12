@@ -12,11 +12,13 @@ I build my own tools. I'd rather spend a weekend building the thing than an afte
 
 ### 🗓️ Open-data calendars
 
-I fork a scraping engine that already works and point it at a fandom that didn't have one yet.
+I fork a scraping engine that already works and point it at information that didn't have one yet.
 
 #### 📚 [MangaRelease](https://mangarelease.github.io)
 
-An automated, open-data release calendar for licensed English manga, manhwa, manhua & webtoons. Scrapes 15+ publishers daily via GitHub Actions, and the full dataset ships as CSV so anyone's agents can use it. An extensive fork of [LNRelease's light-novel calendar](https://github.com/LNRelease/lnrelease.github.io) (MIT) — the original nails release dates for English light novels; I adapted the engine for comics and the very different set of publishers that put them out. Repo: [github.com/mangarelease/mangarelease.github.io](https://github.com/mangarelease/mangarelease.github.io).
+An automated, open-data release calendar for licensed English manga, manhwa, manhua & webtoons. Scrapes 15+ publishers daily via GitHub Actions, and the full dataset ships as CSV so anyone's agents can use it. An extensive fork of [LNRelease's light-novel calendar](https://github.com/LNRelease/lnrelease.github.io) (MIT) — the original nails release dates for English light novels; I adapted the engine for comics and the very different set of publishers that put them out. 
+
+Repo: [github.com/mangarelease/mangarelease.github.io](https://github.com/mangarelease/mangarelease.github.io).
 
 ---
 
