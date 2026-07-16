@@ -28,9 +28,9 @@ A local-first, read-only engine that turns your order emails into structured pur
 
 ---
 
-### 🧰 Data gremlin utilities
+### 🫶 For the things I actually care about
 
-Tools I built for my own messes, cleaned up so they can handle yours too.
+Small tools for my actual daily life: the tabs, the music library, the manga backlog.
 
 #### 🧵 [loose-ends](https://github.com/ssskay/loose-ends)
 
@@ -39,6 +39,10 @@ Tab triage for Safari, inspired by [Zara Zhang's tab-out](https://github.com/zar
 #### 🎧 [earditor](https://github.com/ssskay/earditor)
 
 For the songs that forgot their names. Ever download a song called Track 01 by unknown artist? Earditor fills in the missing info, checking three sources so you make the final verdict. It ran on my machine alone since 2021 as a Jupyter notebook; now it's a notarized Mac app anyone can use. [Try it live](https://sarakay.me/demos/earditor).
+
+#### 📅 [mangarelease](https://github.com/mangarelease/mangarelease.github.io)
+
+Never miss a release again. Every licensed English manga, manhwa, manhua & webtoon drop in one calendar that updates itself, plus the part other sites skip: a full archive of past releases. GitHub Actions scrapes 15+ publishers daily and redeploys while I sleep. Open CSV/JSON data layer, free to build on. [Bookmark it](https://mangarelease.github.io).
 
 ---
 
