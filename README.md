@@ -44,6 +44,10 @@ For the songs that forgot their names. Ever download a song called Track 01 by u
 
 Never miss a release again. Every licensed English manga, manhwa, manhua & webtoon drop in one calendar that updates itself, plus the part other sites skip: a full archive of past releases. GitHub Actions scrapes 15+ publishers daily and redeploys while I sleep. Open CSV/JSON data layer, free to build on. [Bookmark it](https://mangarelease.github.io).
 
+#### ⛵ [Which Odyssey?](https://whichodyssey.com)
+
+Homer's Odyssey has been retold for 2,800 years, and every retelling is an argument about what the story means. A quiz that figures out which one is yours: 17 adaptations across translations, film, novels, albums & games, each with its own guide page. [Take the quiz](https://whichodyssey.com).
+
 ---
 
 ### 🎁 Free stuff engines
