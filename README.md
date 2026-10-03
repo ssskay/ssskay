@@ -1,10 +1,10 @@
 # Hi, I'm Sara 👋
 
-`she/her` · Site Reliability Engineer @ IBM (HashiCorp) · tool gremlin 🐹
+`she/her` · Applied AI engineer @ IBM (HashiCorp) · Boston · published researcher · maker · tool gremlin 🐹
 
 I build my own tools. I'd rather spend a weekend building the thing than an afternoon hunting for one that almost fits — usually with a coding agent riding shotgun on the frontend so I can focus on the data underneath. SRE by day, this by night.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ssskay/) · [Substack](https://newsletter.datagremlingobrr.com) · [sarakay.me](https://sarakay.me)
+🔗 [LinkedIn](https://www.linkedin.com/in/ssskay/) · [Substack](https://newsletter.datagremlingobrr.com) · [sarakay.me](https://sarakay.me) · [Google Scholar](https://scholar.google.com/citations?user=ZbxPVZsAAAAJ)
 
 ---
 
