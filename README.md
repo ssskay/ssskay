@@ -4,9 +4,8 @@
 
 I'm a data hoarder, and I use it to fix problems that come up in my own life. When something gets annoying, I start collecting the data on it until I can fix it:
 
-- My music library was full of songs called "Track 01" by unknown artist, so I built [earditor](https://github.com/ssskay/earditor) to fill in what's missing.
+- I wanted an interactive dashboard of how manga publishing in the US has changed over the years, and the data didn't exist in one place, so I started collecting every licensed English release. That became [mangarelease](https://mangarelease.github.io).
 - I couldn't remember what was on which shelf of my storage unit, so I built a 3D dollhouse of it that maps every shelf and lights up the ones holding things I've sold and need to ship.
-- I kept missing manga releases, so I built a calendar of every one of them.
 
 Same goes for web pages I don't want to lose, every version of a story, and everything I've ever ordered. I also research other collectors: adults who buy toys and collectibles, and why.
 
