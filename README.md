@@ -6,8 +6,10 @@ I'm a data hoarder, and I use it to fix problems that come up in my own life. Wh
 
 - I wanted an interactive dashboard of how manga publishing in the US has changed over the years, and the data didn't exist in one place, so I started collecting every licensed English release. That became [mangarelease](https://mangarelease.github.io).
 - I couldn't remember what was on which shelf of my storage unit, so I built a 3D dollhouse of it that maps every shelf and lights up the ones holding things I've sold and need to ship.
+- Quidd shut down, PAX wipes its exhibitor list every year, and I kept missing the chance to save things before they were gone. So I built [internet-historian](https://github.com/ssskay/internet-historian) to get pages into the Wayback Machine while they still exist.
+- I buy a lot of anime merch, including pre-orders that ship months after I pay for them, and no app could make sense of those receipts. So I built [inbox-catalog](https://github.com/ssskay/inbox-catalog) to turn my order emails into a record of everything I own and what's still on its way.
 
-Same goes for web pages I don't want to lose, every version of a story, and everything I've ever ordered. I also research other collectors: adults who buy toys and collectibles, and why.
+I also research other collectors: adults who buy toys and collectibles, and why.
 
 🔗 [sarakay.me](https://sarakay.me) · [Substack](https://newsletter.datagremlingobrr.com) · [Google Scholar](https://scholar.google.com/citations?user=ZbxPVZsAAAAJ) · [LinkedIn](https://www.linkedin.com/in/ssskay/)
 
